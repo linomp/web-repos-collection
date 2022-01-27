@@ -2,16 +2,16 @@
 
 ## Vanilla JS
 
-- [rgb-game](https://github.com/linomp/rgb-game): Browser game to practice Javascript. 
+- [rgb-game](https://github.com/linomp/rgb-game): Browser game to practice Javascript. [App demo](https://linomp.github.io/rgb-game/)
 
-- [aws-basic-webapp-test](https://github.com/linomp/aws-basic-webapp-test): Basic web app using AWS Amplify, API Gateway, Lambda and DynamoDB. [App demo available] 
+- [aws-basic-webapp-test](https://github.com/linomp/aws-basic-webapp-test): Basic web app using AWS Amplify, API Gateway, Lambda and DynamoDB. [App demo](https://main.d2hio3mz4oolpj.amplifyapp.com/) 
 
-- [floating-face-terror](https://github.com/linomp/floating-face-terror): Darkwave Aesthetics in the browser // fun with face-api.js [App demo available]  
+- [floating-face-terror](https://github.com/linomp/floating-face-terror): Darkwave Aesthetics in the browser // fun with face-api.js [App demo](https://linomp.github.io/floating-face-terror/)  
 
 
 ## React Apps
 
-- [react-lyric-search](https://github.com/linomp/react-lyric-search): React lyric search app using the musixmatch API. [App demo available]
+- [react_lyric_search](https://github.com/linomp/react_lyric_search): React lyric search app using the musixmatch API. [App demo](https://linomp.github.io/react_lyric_search)
 
 
 ## Full-stack Apps
@@ -26,7 +26,7 @@
 ## Static sites
 - [ajaxTableTabulator](https://gist.github.com/linomp/f33911e69b6cab80c8927911fab3ccb3): Gist that shows how to create a feature-rich table with Tabulator (Working example with the JSON placeholder API). [Deployed version here](https://admiring-cori-5f2b7e.netlify.com/). 
   
-- [ZPD_portfolio](https://github.com/linomp/ZPD_portfolio): A personal portfolio static website, making use of Bootstrap, jQuery and a couple of Google Sheets hacks for serverless e-mail functionality. 
+- [ZPD_portfolio](https://github.com/linomp/ZPD_portfolio): A personal portfolio static website, making use of Bootstrap, jQuery and a couple of Google Sheets hacks for serverless e-mail functionality. [Deployed version here](https://linomp.github.io/ZPD_portfolio)
 
 
 ## Guides
