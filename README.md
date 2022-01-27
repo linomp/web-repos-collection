@@ -1,4 +1,4 @@
-# js-repos-collection
+# JS repos collection
 
 ## Vanilla JS
 
