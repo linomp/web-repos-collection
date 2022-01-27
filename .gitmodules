@@ -1,0 +1,3 @@
+[submodule "react-lyric-search"]
+	path = react-lyric-search
+	url = https://github.com/linomp/react-lyric-search
