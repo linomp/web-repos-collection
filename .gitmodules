@@ -1,3 +1,30 @@
 [submodule "react-lyric-search"]
 	path = react-lyric-search
 	url = https://github.com/linomp/react-lyric-search
+[submodule "rgb-game"]
+	path = rgb-game
+	url = https://github.com/linomp/rgb-game
+[submodule "aws-basic-webapp-test"]
+	path = aws-basic-webapp-test
+	url = https://github.com/linomp/aws-basic-webapp-test
+[submodule "floating-face-terror"]
+	path = floating-face-terror
+	url = https://github.com/linomp/floating-face-terror
+[submodule "fullstack-crypto-tracker"]
+	path = fullstack-crypto-tracker
+	url = https://github.com/linomp/fullstack-crypto-tracker
+[submodule "asd_2020_fmps"]
+	path = asd_2020_fmps
+	url = https://github.com/linomp/asd_2020_fmps
+[submodule "DotnetCoreTestFE"]
+	path = DotnetCoreTestFE
+	url = https://github.com/linomp/DotnetCoreTestFE
+[submodule "DotnetCoreWebAPI"]
+	path = DotnetCoreWebAPI
+	url = https://github.com/linomp/DotnetCoreWebAPI
+[submodule "ZPD_portfolio"]
+	path = ZPD_portfolio
+	url = https://github.com/linomp/ZPD_portfolio
+[submodule "starlight-express"]
+	path = starlight-express
+	url = https://github.com/linomp/starlight-express
