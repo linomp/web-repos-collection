@@ -16,7 +16,7 @@
 
 ## Full-stack Apps
 
-- [fullstack-crypto-tracker](https://github.com/linomp/fullstack-crypto-tracker): A simple cryptocurrency tracker - test task for an internship. React Frontend + .NET Core Backend, using the Bittrex API. [front-end temporarily down :warning:] [[test endpoint directly :white_check_mark:](http://165.227.107.127:5000/api/Ticks)]
+- [fullstack-crypto-tracker](https://github.com/linomp/fullstack-crypto-tracker): A simple cryptocurrency tracker - test task for an internship. React Frontend + .NET Core Backend, using the Bittrex API. [Front-end temporarily down :warning: -->  [Test endpoint directly :white_check_mark:](http://165.227.107.127:5000/api/Ticks)]
 
 - [asd_2020_fmps](https://github.com/linomp/asd_2020_fmps): "Find me a Parking Spot", final project of the Agile Software Development course @ University of Tartu, Autumn 2020. [App demo temporarily down :warning:] - This one was written in Elixir + Phoenix Framework .
 
