@@ -13,12 +13,14 @@
 
 - [react_lyric_search](https://github.com/linomp/react_lyric_search): React lyric search app using the musixmatch API. [[App demo](https://linomp.github.io/react_lyric_search)]
 
+## APIs
+- [todo-manager-api](https://github.com/linomp/todo-manager-api): Node JS RESTful API, fully documented with OpenAPI 3.0.1, Swagger UI, JSON schemas & Postman test suites. 
 
 ## Full-stack Apps
 
 - [fullstack-crypto-tracker](https://github.com/linomp/fullstack-crypto-tracker): A simple cryptocurrency tracker - test task for an internship. React Frontend + .NET Core Backend, using the Bittrex API. [Front-end temporarily down :warning: -->  [Test endpoint directly :white_check_mark:](http://165.227.107.127:5000/api/Ticks)]
 
-- [asd_2020_fmps](https://github.com/linomp/asd_2020_fmps): "Find me a Parking Spot", final project of the Agile Software Development course @ University of Tartu, Autumn 2020. [App demo temporarily down :warning:] - This one was written in Elixir + Phoenix Framework .
+- [asd_2020_fmps](https://github.com/linomp/asd_2020_fmps): "Find me a Parking Spot", final project of the Agile Software Development course @ University of Tartu, Autumn 2020. Written in Elixir + Phoenix Framework. [App demo temporarily down :warning:]
 
 - [DotnetCoreTestFE](https://github.com/linomp/DotnetCoreTestFE) | [DotnetCoreWebAPI](https://github.com/linomp/DotnetCoreWebAPI): Basic app with React, Redux, .NETCore & Entity Framework (in preparation for a test task). 
 
