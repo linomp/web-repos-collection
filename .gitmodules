@@ -16,15 +16,12 @@
 [submodule "asd_2020_fmps"]
 	path = asd_2020_fmps
 	url = https://github.com/linomp/asd_2020_fmps
-[submodule "DotnetCoreTestFE"]
-	path = DotnetCoreTestFE
-	url = https://github.com/linomp/DotnetCoreTestFE
-[submodule "DotnetCoreWebAPI"]
-	path = DotnetCoreWebAPI
-	url = https://github.com/linomp/DotnetCoreWebAPI
 [submodule "ZPD_portfolio"]
 	path = ZPD_portfolio
 	url = https://github.com/linomp/ZPD_portfolio
 [submodule "starlight-express"]
 	path = starlight-express
 	url = https://github.com/linomp/starlight-express
+[submodule "todo-manager-api"]
+	path = todo-manager-api
+	url = https://github.com/linomp/todo-manager-api
