@@ -22,8 +22,6 @@
 
 - [asd_2020_fmps](https://github.com/linomp/asd_2020_fmps): "Find me a Parking Spot", final project of the Agile Software Development course @ University of Tartu, Autumn 2020. Written in Elixir + Phoenix Framework. [App demo temporarily down :warning:]
 
-- [DotnetCoreTestFE](https://github.com/linomp/DotnetCoreTestFE) | [DotnetCoreWebAPI](https://github.com/linomp/DotnetCoreWebAPI): Basic app with React, Redux, .NETCore & Entity Framework (in preparation for a test task). 
-
 
 ## Static sites
 - [ajaxTableTabulator](https://gist.github.com/linomp/f33911e69b6cab80c8927911fab3ccb3): Gist that shows how to create a feature-rich table with Tabulator (Working example with the JSON placeholder API). [[Deployed version here](https://admiring-cori-5f2b7e.netlify.com/)]
