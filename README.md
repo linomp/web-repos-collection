@@ -14,7 +14,7 @@
 - [react_lyric_search](https://github.com/linomp/react_lyric_search): React lyric search app using the musixmatch API. [[App demo](https://linomp.github.io/react_lyric_search)]
 
 ## APIs
-- [todo-manager-api](https://github.com/linomp/todo-manager-api): Node JS RESTful API, fully documented with OpenAPI 3.0.1, Swagger UI, JSON schemas & Postman test suites. 
+- [todo-manager-api](https://github.com/linomp/todo-manager-api): Node JS RESTful API, fully documented with OpenAPI 3.0.1, Swagger UI, JSON schemas & Postman test suites. Bundled with a SQLite DB.
 
 ## Full-stack Apps
 
