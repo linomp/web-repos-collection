@@ -1,4 +1,4 @@
-# JS repos collection
+# JS / Web repos collection
 
 ## Vanilla JS
 
@@ -17,6 +17,8 @@
 - [todo-manager-api](https://github.com/linomp/todo-manager-api): Node JS RESTful API, fully documented with OpenAPI 3.0.1, Swagger UI, JSON schemas & Postman test suites. Bundled with a SQLite DB.
 
 ## Full-stack Apps
+
+- [kotland-polito](https://github.com/kotland-polito): Lab assignments of the course Web Applications II at @ Politecnico di Torino, Spring 2022. (Kotlin + Spring Boot)
 
 - [fullstack-crypto-tracker](https://github.com/linomp/fullstack-crypto-tracker): A simple cryptocurrency tracker - test task for an internship. React Frontend + .NET Core Backend, using the Bittrex API. [Front-end temporarily down :warning: -->  [Test endpoint directly :white_check_mark:](http://165.227.107.127:5000/api/Ticks)]
 
