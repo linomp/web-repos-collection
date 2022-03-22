@@ -16,7 +16,7 @@
 ## APIs
 - [todo-manager-api](https://github.com/linomp/todo-manager-api): Node JS RESTful API, fully documented with OpenAPI 3.0.1, Swagger UI, JSON schemas & Postman test suites. Bundled with a SQLite DB.
 
-- [kotland-polito](https://github.com/kotland-polito): Lab assignments of the course Web Applications II at @ Politecnico di Torino, Spring 2022. (Focused on Backend development with Kotlin + Spring Boot)
+- [kotland-polito](https://github.com/kotland-polito): Lab assignments of the course Web Applications II @ Politecnico di Torino, Spring 2022. (Focused on Backend development with Kotlin + Spring Boot)
 
 ## Full-stack Apps
 
