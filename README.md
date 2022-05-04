@@ -33,6 +33,7 @@
   
 - [ZPD_portfolio](https://github.com/linomp/ZPD_portfolio): A personal portfolio static website, making use of Bootstrap, jQuery and a couple of Google Sheets hacks for serverless e-mail functionality. [[Deployed version here](https://linomp.github.io/ZPD_portfolio)]
 
+- [landing-page](https://github.com/linomp/landing-page): My personal portfolio website. [Work in Progress 🚧]
 
 ## Guides
 
