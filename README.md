@@ -15,9 +15,13 @@
 
 ### Full-stack Apps
 
-- [polito-comm-systems-project](https://github.com/linomp/polito-comm-systems-project): A generic inventory app built with MySQL, FastAPI and Flutter. Final project of the Communication Systems course @ Politecnico di Torino, Spring 2022. [Work in Progress 🚧]
+- [polito-comm-systems-project](https://github.com/linomp/polito-comm-systems-project): Backend of a generic inventory app built with MySQL and FastAPI. Communication Systems course @ Politecnico di Torino [Work in Progress 🚧] 
 
-- [fullstack-crypto-tracker](https://github.com/linomp/fullstack-crypto-tracker): A simple cryptocurrency tracker - test task for an internship. React Frontend + .NET Core Backend, using the Bittrex API. [[Test endpoint](http://165.227.107.127:5000/api/Ticks)]
+- [polito-comm-systems-client](https://github.com/linomp/polito-comm-systems-client): Flutter cross-platform client for a generic inventory app. Communication Systems course @ Politecnico di Torino [Work in Progress 🚧] 
+
+- [fullstack-crypto-tracker](https://github.com/linomp/fullstack-crypto-tracker): A simple cryptocurrency tracker - test task for an internship. React Frontend + .NET Core Backend, using the Bittrex API. [[Test endpoint](http://apps.xmp.systems:5000/api/Ticks)]
+
+
 
 - [asd_2020_fmps](https://github.com/linomp/asd_2020_fmps): "Find me a Parking Spot", final project of the Agile Software Development course @ University of Tartu, Autumn 2020. Written in Elixir + Phoenix Framework. [App demo temporarily down :warning:]
 
