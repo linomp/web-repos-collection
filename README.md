@@ -31,9 +31,10 @@
 - [kotland-polito](https://github.com/kotland-polito): Lab assignments of the course Web Applications II @ Politecnico di Torino, Spring 2022. (Focused on Backend development with Kotlin + Spring Boot)
 
 
-
 ### Static sites
 - [ajaxTableTabulator](https://gist.github.com/linomp/f33911e69b6cab80c8927911fab3ccb3): Gist that shows how to create a feature-rich table with Tabulator (Working example with the JSON placeholder API). [[Deployed version here](https://admiring-cori-5f2b7e.netlify.com/)]
   
 - [ZPD_portfolio](https://github.com/linomp/ZPD_portfolio): A personal portfolio static website, making use of Bootstrap, jQuery and a couple of Google Sheets hacks for serverless e-mail functionality. [[Deployed version here](https://linomp.github.io/ZPD_portfolio)]
+
+- [No pasaran](https://github.com/linomp/no-pasaran): [_no pasaran_](https://nopasaran.xmp.systems/)
 
