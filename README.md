@@ -15,9 +15,9 @@
 
 ### Full-stack Apps
 
-- [polito-comm-systems-project](https://github.com/linomp/polito-comm-systems-project): Backend of a generic inventory app built with MySQL and FastAPI. Communication Systems course @ Politecnico di Torino [Work in Progress 🚧] 
+- [polito-comm-systems-project](https://github.com/linomp/polito-comm-systems-project): Backend of a generic inventory app built with MySQL and FastAPI. Communication Systems course @ Politecnico di Torino [[Check the backend SwaggerUI](http://apps.xmp.systems/docs)]
 
-- [polito-comm-systems-client](https://github.com/linomp/polito-comm-systems-client): Flutter cross-platform client for a generic inventory app. Communication Systems course @ Politecnico di Torino [Work in Progress 🚧] 
+- [polito-comm-systems-client](https://github.com/linomp/polito-comm-systems-client): Flutter cross-platform client for a generic inventory app. Communication Systems course @ Politecnico di Torino [[App demo](http://apps.xmp.systems:8080)]
 
 - [fullstack-crypto-tracker](https://github.com/linomp/fullstack-crypto-tracker): A simple cryptocurrency tracker - test task for an internship. React Frontend + .NET Core Backend, using the Bittrex API. [[Test endpoint](http://apps.xmp.systems:5000/api/Ticks)]
 
