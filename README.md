@@ -26,7 +26,7 @@
 - [asd_2020_fmps](https://github.com/linomp/asd_2020_fmps): "Find me a Parking Spot", final project of the Agile Software Development course @ University of Tartu, Autumn 2020. Written in Elixir + Phoenix Framework. [App demo temporarily down :warning:]
 
 ### APIs
-- [todo-manager-api](https://github.com/linomp/todo-manager-api): Node JS RESTful API, fully documented with OpenAPI 3.0.1, Swagger UI, JSON schemas & Postman test suites. Bundled with a SQLite DB.
+- [todo-manager-api](https://github.com/linomp/todo-manager-api): Node JS RESTful API, fully documented with OpenAPI 3.0.1, Swagger UI, JSON schemas & Postman test suites. Bundled with a SQLite DB. Exam Assignment of the Distributed Systems Programming course @ Politecnico di Torino, Autumn 2021.
 
 - [kotland-polito](https://github.com/kotland-polito): Lab assignments of the course Web Applications II @ Politecnico di Torino, Spring 2022. (Focused on Backend development with Kotlin + Spring Boot)
 
